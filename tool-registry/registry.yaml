@@ -1,15 +1,11 @@
 schema: 1
 modules:
     test-module:
-        description: Aimed to test the pb CLI.
-        tags:
-            - test
-            - module
+        description: Aimed to test the Project Bootstrap CLI.
         versions:
-            - 0.0.1
+            - 1.0.1
 templates:
     cool-project-template:
-        description: cool-project-template
+        description: A project template for testing purposes
         versions:
-            - 1.3.22
-            - 1.3.23
+            - 0.2.1

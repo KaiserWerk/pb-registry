@@ -1,11 +1,8 @@
 name: test-module
 description: Example module
-version: 0.0.0
+version: 1.0.1
 languages:
     - golang
 dependencies:
     golang:
         - github.com/example/jwt@v5.3.1
-tags:
-    - TagA
-    - TagB

@@ -1,0 +1,5 @@
+name: cool-project-template
+version: 0.2.1
+language: golang
+type: cli
+modules: []
