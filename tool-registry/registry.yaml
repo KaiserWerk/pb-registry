@@ -1,0 +1,15 @@
+schema: 1
+modules:
+    test-module:
+        description: Aimed to test the pb CLI.
+        tags:
+            - test
+            - module
+        versions:
+            - 0.0.1
+templates:
+    cool-project-template:
+        description: cool-project-template
+        versions:
+            - 1.3.22
+            - 1.3.23
