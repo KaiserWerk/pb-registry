@@ -14,7 +14,7 @@ sources:
   - https://github.com/KaiserWerk/pb-registry
 ```
 
-Sources must be valid repository URLs or paths which can be used by `git` commands, like `git clone`.
+Sources must be valid repository URLs or paths (remotes) which can be used by `git` commands, like `git clone`.
 
 In case you don't have a `~/.pb/pb-config.yaml` file yet, you can create it by executing `pb create-config` from any directory.
 
